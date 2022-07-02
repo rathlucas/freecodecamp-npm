@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Lucas Santiago Santana",
+  "description": "An app developed as part of the FreeCodeCamp.org course on back-end development with node.js, express, mongoDB, and other useful tools. ",
   "dependencies": {
     "express": "^4.14.0"
   },
